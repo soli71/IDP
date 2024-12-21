@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35605.110
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IdentityServer", "IdentityServer\IdentityServer.csproj", "{845D7A75-5F70-4827-9846-FAC6EB1CA552}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api1", "Api1\Api1.csproj", "{0E4090C7-35C9-4120-8C09-6A1F4280555F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{845D7A75-5F70-4827-9846-FAC6EB1CA552}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{845D7A75-5F70-4827-9846-FAC6EB1CA552}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{845D7A75-5F70-4827-9846-FAC6EB1CA552}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{845D7A75-5F70-4827-9846-FAC6EB1CA552}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E4090C7-35C9-4120-8C09-6A1F4280555F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E4090C7-35C9-4120-8C09-6A1F4280555F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E4090C7-35C9-4120-8C09-6A1F4280555F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E4090C7-35C9-4120-8C09-6A1F4280555F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C7B9353-9DC0-44C2-A7AC-A791F67BEF1F}
+	EndGlobalSection
+EndGlobal
